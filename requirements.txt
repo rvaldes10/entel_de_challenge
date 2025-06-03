@@ -1,0 +1,7 @@
+boto3
+awswrangler[redshift]
+python-dotenv==1.0.1
+# pandas
+# pyarrow
+# fastavro
+# python-dotenv
